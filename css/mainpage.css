@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: blue;
+    text-align:center;
+   
+   
+
+}
+header img{
+    border-radius:50%;
+    border: 10px solid whitesmoke;
+    width: 300px;
+}
+header h1{
+    color: white;
+    
+}

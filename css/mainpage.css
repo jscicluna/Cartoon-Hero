@@ -1,19 +1,28 @@
 body {
     margin: 0;
+    line-height: 60px;
 }
+
 header {
     background-color: blue;
     text-align:center;
-   
-   
+    padding-top:50px;
+    padding-bottom:50px;
 
 }
 header img{
-    border-radius:50%;
-    border: 10px solid whitesmoke;
-    width: 300px;
+    border-radius: 60%;
+    width:300px;
+    border: 15px solid #e4e4e4;
 }
+
 header h1{
     color: white;
     
+}
+mainbody{
+    line-height: 30px;
+}
+mainbody h1{
+    text-align:center;
 }

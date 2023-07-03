@@ -1,5 +1,8 @@
 body {
     margin: 0;
+    margin-right: 100px;
+    margin-left:  100px;
+        
     line-height: 60px;
 }
 
